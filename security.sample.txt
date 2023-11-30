@@ -1,0 +1,4 @@
+Contact: mailto:developer@ogtic.gob.do
+Expires: 2026-11-01T04:00:00.000Z
+Encryption: https://raw.githubusercontent.com/ogticrd/web-security-info/master/pgp/publickey.txt
+Preferred-Languages: en,es
