@@ -1,8 +1,3 @@
-pub   rsa4096 2023-11-30 [SC] [expires: 2026-11-29]
-      1872BC3AAF7CEE35F216F519CE459372DDC5FB60
-uid                      Developers OGTIC (Llave para Security Researchers enviar e-mails encriptados a developer@ogtic.gob.do.) <developer@ogtic.gob.do>
-sub   rsa4096 2023-11-30 [E] [expires: 2026-11-29]
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGVozosBEADhdQ98CCEzuKGHpErSlCb6AL/uHA26hHdnoFfCQDf1LBi/MzEK
